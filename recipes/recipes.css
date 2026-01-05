@@ -1,6 +1,7 @@
 * {
   outline: 2px solid red;
   background-color: rgb(247, 224, 194);
+   list-style-type: none;
 }
 
 img{
@@ -20,4 +21,9 @@ h2{
    display: flex;
    justify-content: space-between;
    align-items: center;
+   gap: 20px;
+}
+
+.rigth h1{
+   font-family: 'Times New Roman', Times, serif;
 }
