@@ -1,0 +1,23 @@
+* {
+  outline: 2px solid red;
+  background-color: rgb(247, 224, 194);
+}
+
+img{
+    margin: 20px;
+    width: 250px;
+    height: auto;
+    border: 2px solid wheat;
+    border-radius: 10px;
+}
+
+h2{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.head, .info{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
